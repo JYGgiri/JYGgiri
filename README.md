@@ -17,39 +17,39 @@ If you want to discuss about it, feel free to contact me.
 
 ## 🌐 You can find me on :
 <p align="center">
-  <a href="https://www.instagram.com/jinyang._.1214/" target="_blank"><img alt="Jin Yang Instagram" src="icons/instagramicon.svg" width="7%"></a>
-  <a href="https://twitter.com/linit_io/" target="_blank"><img alt="Jin Yang Discord" src="icons/discordicon.png" width="10%"></a>
+  <a href="https://www.instagram.com/jinyang._.1214/" target="_blank"><img alt="Jin Yang Instagram" src="icons/instagramicon.png" width="7%" align=middle></a>
+  <a href="https://twitter.com/linit_io/" target="_blank"><img alt="Jin Yang Discord" src="icons/discordicon.svg" width="6.5%" align=middle></a>
 </p>
 
-## 🖥️ My tech stacks :
+## 🖥️ My Favorites :
 
 <p align="right">
-  <h3><i>N/A:</i></h3>
+  <h3><i>Games / Storyline:</i></h3>
   <table>
   <tr border: none;>
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/aws-logo.png?raw=true" width="48" height="48" alt="AWS" />
+      <a href="">
+        <img src="icons/minecrafticon.svg" width="48" height="48" alt="Minecraft" />
       </a>
-      <br>AWS
+      <br>Minecraft
     </td>	  
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/ipc-logo.png?raw=true" width="48" height="48" alt="Infomaniak Public Cloud" />
+      <a href="">
+        <img src="icons/steamicon.svg" width="48" height="48" alt="Steam Games" />
       </a>
-      <br>IPC
+      <br>Steam Games
     </td>
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/netlify-logo.png?raw=true" width="48" height="48" alt="Netlify" />
+      <a href="">
+        <img src="icons/harrypottericon.svg" width="48" height="48" alt="Wizarding World" />
       </a>
-      <br>Netlify
+      <br>Wizarding World
     </td>
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/openstack-logo.png?raw=true" width="48" height="48" alt="OpenStack" />
+      <a href="">
+        <img src="icons/marvelicon.svg" width="48" height="48" alt="MCU" />
       </a>
-      <br>OpenStack
+      <br>MCU
     </td>
   </tr>
 </table>
