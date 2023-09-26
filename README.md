@@ -1,4 +1,4 @@
-# Hi everyone, i'm Kevin Allioli aka (@linitio)
+# Hi everyone, i'm Jin Yang
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
 <p width="45%">
 Hi, nice to meet you. Let me introduce my profile in a few lines.
