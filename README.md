@@ -3,30 +3,28 @@
 <p width="45%">
 Hi, nice to meet you. Let me introduce my profile in a few lines.
   <ul>
-    <li>👨‍🔧 I'm an <b>IT engineer</b></li>
-    <li>📍 Based near <b>Geneva</b></li>
-    <li>🏢 I'm working for <b>Infomaniak Network</b> & <b>LinIT</b></li>
-    <li>🌱 I'm currently learning <b>COA Certification</b> and <b>Python</b></li>
-    <li>💬 You can ask me about <b>OpenStack, Docker, Cloud Architecture...</b></li>
-    <li>📮 You can contact me directly here : <b>kevin@linit.io</b>
+    <li>👨‍🔧 I'm a <b>Student majoring</li>Game Development</b></li>
+    <li>📍 Based in <b>Seoul, South Korea</b></li>
+    <li>🏢 I'm a student in <b>Sogang University</b></li>
+    <li>🌱 I'm currently learning <b>Game Development</b> and <b>Game Architecture</b></li>
+    <li>💬 I love Video Games so <b>I'm learning to make one.</b></li>
+    <li>📮 You can contact me directly here : <b>yohn1214@gmail.com</b>
   </ul>
-Passionate IT engineer and trainer, I am always looking for new challenges.
-<br>For a few years now I've been focusing on cloud architecture and deployment, especially with <b>OpenStack</b> and <b>AWS</b> solutions as well as <b>containerization technologies</b>. I'm also working on <b>learning contents</b> on these same topics.<br>
+Passionate learning to be an IT engineer, I am always looking for new challenges.
+<br>For a few years now I've been focusing on 3D Game Development, especially with <b>Unreal5 Engine</b>. I'm also working on learning <b>3D Designs</b> with <b>3Ds Max.</b><br>
 If you want to discuss about it, feel free to contact me.
 </p>
 
 ## 🌐 You can find me on :
 <p align="center">
-  <a href="https://www.linkedin.com/in/kevinallioli/" target="_blank"><img alt="Kevin Allioli LinkedIn profile" src="https://github.com/linitio/static-content/blob/main/img/logo/linkedin-button.png?raw=true" width="13%"></a>
-  <a href="https://twitter.com/linit_io/" target="_blank"><img alt="linit.io Twitter profile" src="https://github.com/linitio/static-content/blob/main/img/logo/twitter-button.png?raw=true" width="13%"></a>
-  <a href="https://www.openstack.org/community/members/profile/139244/kevin-allioli" target="_blank"><img alt="Kevin Allioli OpenInfra profile" src="https://github.com/linitio/static-content/blob/main/img/logo/openinfra-button.png?raw=true" width="13%"></a>
-  <a href="https://www.youtube.com/channel/UCprX4LgBZkGr6hcyy5NSgoQ"><img alt="linit.io YouTube channel" src="https://github.com/linitio/static-content/blob/main/img/logo/youtube-button.png?raw=true" width="13%"></a>
+  <a href="https://www.instagram.com/jinyang._.1214/" target="_blank"><img alt="Jin Yang Instagram" src="icons/instagramicon.svg" width="7%"></a>
+  <a href="https://twitter.com/linit_io/" target="_blank"><img alt="Jin Yang Discord" src="icons/discordicon.png" width="10%"></a>
 </p>
 
 ## 🖥️ My tech stacks :
 
 <p align="right">
-  <h3><i>Hosting providers:</i></h3>
+  <h3><i>N/A:</i></h3>
   <table>
   <tr border: none;>
     <td align="center" width="110">
