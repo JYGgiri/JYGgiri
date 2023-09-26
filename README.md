@@ -58,40 +58,40 @@ If you want to discuss about it, feel free to contact me.
   <table>
   <tr border: none;>
    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/bash-logo.png?raw=true" width="48" height="48" alt="Bash" />
+      <a href="">
+        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
       </a>
-      <br>Bash
+      <br>TBU
     </td>
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/css3-logo.png?raw=true" width="48" height="48" alt="CSS 3" />
+      <a href="">
+        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
       </a>
-      <br>CSS 3
+      <br>TBU
     </td>
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/html5-logo.png?raw=true" width="48" height="48" alt="HTML 5" />
+      <a href="">
+        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
       </a>
-      <br>HTML 5
+      <br>TBU
     </td>
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/markdown-logo.png?raw=true" width="48" height="48" alt="Markdown" />
+      <a href="">
+        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
       </a>
-      <br>Markdown
+      <br>TBU
     </td>
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/python-logo.png?raw=true" width="48" height="48" alt="Python" />
+      <a href="">
+        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
       </a>
-      <br>Python
+      <br>TBU
     </td>
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/yaml-logo.png?raw=true" width="48" height="48" alt="YAML" />
+      <a href="">
+        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
       </a>
-      <br>YAML
+      <br>TBU
     </td>
   </tr>
 </table>
@@ -101,115 +101,115 @@ If you want to discuss about it, feel free to contact me.
   <table>
   <tr border: none;>
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/debian-logo.png?raw=true" width="48" height="48" alt="Debian" />
+      <a href="">
+        <img src="icons/unityicon.svg" width="48" height="48" alt="Unity" />
       </a>
-      <br>Debian
+      <br>Unity
     </td>	  
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/apple-logo.png?raw=true" width="48" height="48" alt="macOS" />
+      <a href="">
+        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
       </a>
-      <br>macOS
+      <br>TBU
     </td>
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/redhat-logo.png?raw=true" width="48" height="48" alt="Red Hat" />
+      <a href="">
+        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
       </a>
-      <br>Red Hat
+      <br>TBU
     </td>
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/ubuntu-logo.png?raw=true" width="48" height="48" alt="Ubuntu" />
+      <a href="">
+        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
       </a>
-      <br>Ubuntu
+      <br>TBU
     </td>
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/windows-logo.png?raw=true" width="48" height="48" alt="Windows" />
+      <a href="">
+        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
       </a>
-      <br>Windows
+      <br>TBU
     </td>
   </tr>
 </table>
 </p>
 <p>
-  <h3><i>Other tools:</i></h3>
+  <h3><i>Studying / Learning :</i></h3>
   <table>
   <tr border: none;>
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/github-logo.png?raw=true" width="48" height="48" alt="GitHub Action" />
+      <a href="">
+        <img src="icons/accessicon.svg" width="48" height="48" alt="Access" />
       </a>
-      <br>Action
+      <br>Access
     </td>	  
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/ansible-logo.png?raw=true" width="48" height="48" alt="Ansible" />
+      <a href="">
+        <img src="icons/mysqlicon.svg" width="48" height="48" alt="MySQL" />
       </a>
-      <br>Ansible
+      <br>MySQL
     </td>
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/ceph-logo.png?raw=true" width="48" height="48" alt="Ceph" />
+      <a href="">
+        <img src="icons/3dsmaxicon.webp" width="48" height="48" alt="3Ds Max" />
       </a>
-      <br>Ceph
+      <br>3Ds Max
     </td>
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/gitlab-logo.png?raw=true" width="48" height="48" alt="GitLab CI/CD" />
+      <a href="">
+        <img src="icons/gitbashicon.svg" width="48" height="48" alt="GitBash" />
       </a>
-      <br>CI/CD
+      <br>Git Bash
     </td>
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/cloud-init-logo.png?raw=true" width="48" height="48" alt="Cloud-Init" />
+      <a href="">
+        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
       </a>
-      <br>Cloud-Init
+      <br>TBU
     </td>
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/docker-logo.png?raw=true" width="48" height="48" alt="Docker" />
+      <a href="">
+        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
       </a>
-      <br>Docker
+      <br>TBU
     </td>
   </tr>
   <tr>
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/git-logo.png?raw=true" width="48" height="48" alt="Git" />
+      <a href="">
+        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
       </a>
-      <br>Git
+      <br>TBU
     </td>	  
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/grafana-logo.png?raw=true" width="48" height="48" alt="Grafana" />
+      <a href="">
+        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
       </a>
-      <br>Grafana
+      <br>TBU
     </td>
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/influxdb-logo.png?raw=true" width="48" height="48" alt="InfluxDB" />
+      <a href="">
+        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
       </a>
-      <br>InfluxDB
+      <br>TBU
     </td>
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/terraform-logo.png?raw=true" width="48" height="48" alt="Terraform" />
+      <a href="">
+        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
       </a>
-      <br>Terraform
+      <br>TBU
     </td>
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/vault-logo.png?raw=true" width="48" height="48" alt="Vault" />
+      <a href="">
+        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
       </a>
-      <br>Vault
+      <br>TBU
     </td>
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/visual-studio-logo.png?raw=true" width="48" height="48" alt="Visual Studio Code" />
+      <a href="">
+        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
       </a>
-      <br>VS Code
+      <br>TBU
     </td>
   </tr>
 </table>
