@@ -221,80 +221,27 @@ If you want to discuss about it, feel free to contact me.
   <summary><b>⚡ Github Stats</b></summary>
 	
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=linitio&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linitio&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JYGgiri&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYGgiri&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=linitio&hide_border=true" />
-</details>
-
-<details>
-  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
-
-  <br />
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-	      <td><a href="https://github.com/iampavangandhi/Gitwar"><b>📦 openstack-alpine-images</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/linitio/openstack-alpine-image?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/linitio/openstack-alpine-image?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/linitio/openstack-alpine-image?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/linitio/openstack-alpine-image?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/linitio/openstack-alpine-image?style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/linitio/docker-apps-collection"><b>🐳 docker-apps-collection</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/linitio/docker-apps-collection?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/linitio/docker-apps-collection?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/linitio/docker-apps-collection?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/linitio/docker-apps-collection?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/yaml-92%25-blue?style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/linitio/aws-resume"><b>👨🏻‍💻 aws-resume</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/linitio/aws-resume?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/linitio/aws-resume?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/linitio/aws-resume?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/linitio/aws-resume?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/linitio/aws-resume?style=flat-square"/></td> 
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/linitio/linitio"><b>🤓 linitio</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/linitio/linitio?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/linitio/linitio?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/linitio/linitio?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/linitio/linitio?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/markdown-50%25-blue?style=flat-square"/></td> 
-      </tr>
-    </tbody>
-  </table>
-  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JYGgiri&hide_border=true" />
 </details>
  
 <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> macOS Monterey</li>
-	    <li><b>Laptop: </b> MacBook Pro M1 13" & MacBook Pro M1 Pro 16"</li>
-  	    <li><b>Browser: </b> Firefox Web Browser</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-	    <li><b>Code Editor:</b> VSCode</li>
-	    <li><b>To Stay Updated:</b> linit.io, Medium, Linkedin, Twitter and Youtube.</li>
+  	    <li><b>OS:</b> Windows OS</li>
+	    <li><b>Laptop: </b> Samsung Gram 16inch"</li>
+  	    <li><b>Browser: </b> Google Chrome Browser</li>
+	    <li><b>Terminal: </b> </li>
+	    <li><b>Code Editor:</b> VSCode, Notepad++</li>
+	    <li><b>To Stay Updated:</b> N/A</li>
 	</ul>	
 </details>
 
@@ -307,5 +254,3 @@ If you want to discuss about it, feel free to contact me.
 </div>
 
 ------
-[linitio](https://github.com/linitio)
-Last Edited on: 27/06/2022 
