@@ -1,9 +1,9 @@
-# Hi everyone, i'm Jin Yang
+# Hi everyone, I'm Jin Yang
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
 <p width="45%">
 Hi, nice to meet you. Let me introduce my profile in a few lines.
   <ul>
-    <li>👨‍🔧 I'm a <b>Student majoring</li>Game Development</b></li>
+    <li>👨‍🔧 I'm a <b>Student</b> majoring <b>Game Development</b></li>
     <li>📍 Based in <b>Seoul, South Korea</b></li>
     <li>🏢 I'm a student in <b>Sogang University</b></li>
     <li>🌱 I'm currently learning <b>Game Development</b> and <b>Game Architecture</b></li>
@@ -11,7 +11,7 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
     <li>📮 You can contact me directly here : <b>yohn1214@gmail.com</b>
   </ul>
 Passionate learning to be an IT engineer, I am always looking for new challenges.
-<br>For a few years now I've been focusing on 3D Game Development, especially with <b>Unreal5 Engine</b>. I'm also working on learning <b>3D Designs</b> with <b>3Ds Max.</b><br>
+<br>For a few years now I've been focusing on Game Development Language, especially with <b>C</b>, <b>C#</b> and <b>C++</b>. I mainly work on design of a game, write proposals about the concept, core mechanics, level design etc. I'm also working on learning <b>3D Designs</b> with <b>3Ds Max.</b><br> I still have some interest in <b>IT engineering</b>
 If you want to discuss about it, feel free to contact me.
 </p>
 
