@@ -54,86 +54,6 @@ If you want to discuss about it, feel free to contact me.
   </tr>
 </table>
 <p>
-  <h3><i>Languages:</i></h3>
-  <table>
-  <tr border: none;>
-   <td align="center" width="110">
-      <a href="">
-        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
-      </a>
-      <br>TBU
-    </td>
-    <td align="center" width="110">
-      <a href="">
-        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
-      </a>
-      <br>TBU
-    </td>
-    <td align="center" width="110">
-      <a href="">
-        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
-      </a>
-      <br>TBU
-    </td>
-    <td align="center" width="110">
-      <a href="">
-        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
-      </a>
-      <br>TBU
-    </td>
-    <td align="center" width="110">
-      <a href="">
-        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
-      </a>
-      <br>TBU
-    </td>
-    <td align="center" width="110">
-      <a href="">
-        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
-      </a>
-      <br>TBU
-    </td>
-  </tr>
-</table>
-</p>
-<p>
-  <h3><i>Operating Systems:</i></h3>
-  <table>
-  <tr border: none;>
-    <td align="center" width="110">
-      <a href="">
-        <img src="icons/unityicon.svg" width="48" height="48" alt="Unity" />
-      </a>
-      <br>Unity
-    </td>	  
-    <td align="center" width="110">
-      <a href="">
-        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
-      </a>
-      <br>TBU
-    </td>
-    <td align="center" width="110">
-      <a href="">
-        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
-      </a>
-      <br>TBU
-    </td>
-    <td align="center" width="110">
-      <a href="">
-        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
-      </a>
-      <br>TBU
-    </td>
-    <td align="center" width="110">
-      <a href="">
-        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
-      </a>
-      <br>TBU
-    </td>
-  </tr>
-</table>
-</p>
-<p>
   <h3><i>Studying / Learning :</i></h3>
   <table>
   <tr border: none;>
@@ -163,6 +83,44 @@ If you want to discuss about it, feel free to contact me.
     </td>
     <td align="center" width="110">
       <a href="">
+        <img src="icons/unityicon.svg" width="48" height="48" alt="Unity" />
+      </a>
+      <br>Unity
+    </td>
+    <td align="center" width="110">
+      <a href="">
+        <img src="icons/unrealicon.png" width="48" height="48" alt="Unreal Engine 5" />
+      </a>
+      <br>Unreal Engine 5
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <a href="">
+        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
+      </a>
+      <br>TBU
+    </td>	  
+    <td align="center" width="110">
+      <a href="">
+        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
+      </a>
+      <br>TBU
+    </td>
+    <td align="center" width="110">
+      <a href="">
+        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
+      </a>
+      <br>TBU
+    </td>
+    <td align="center" width="110">
+      <a href="">
+        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
+      </a>
+      <br>TBU
+    </td>
+    <td align="center" width="110">
+      <a href="">
         <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
       </a>
       <br>TBU
@@ -174,13 +132,18 @@ If you want to discuss about it, feel free to contact me.
       <br>TBU
     </td>
   </tr>
-  <tr>
-    <td align="center" width="110">
+</table>
+</p>
+<p>
+  <h3><i>Active Repositories:</i></h3>
+  <table>
+  <tr border: none;>
+   <td align="center" width="110">
       <a href="">
         <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
       </a>
       <br>TBU
-    </td>	  
+    </td>
     <td align="center" width="110">
       <a href="">
         <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
