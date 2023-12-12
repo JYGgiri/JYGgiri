@@ -1,29 +1,94 @@
 # Hi everyone, I'm Jin Yang
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="30%" />
 <p width="45%">
-Hi, nice to meet you. Let me introduce my profile in a few lines.
   <ul>
-    <li>👨‍🔧 I'm a <b>Student</b> majoring <b>Game Development</b></li>
-    <li>📍 Based in <b>Seoul, South Korea</b></li>
+    <li>👨‍🔧 I'm a <b>student</b> majoring <b>Game Design</b></li>
     <li>🏢 I'm a student in <b>Sogang University</b></li>
-    <li>🌱 I'm currently learning <b>Game Development</b> and <b>Game Architecture</b></li>
-    <li>💬 I love Video Games so <b>I'm learning to make one.</b></li>
-    <li>📮 You can contact me directly here : <b>yohn1214@gmail.com</b>
+    <li>📍 Based in <b>Seoul, South Korea</b></li>
+    <li>🌱 Currently aiming for <b>indie game industry</b></li>
+    <li>📮 You can contact me directly here: <b>yohn1214@gmail.com</b></li>
   </ul>
-Passionate learning to be an IT engineer, I am always looking for new challenges.
-<br>For a few years now I've been focusing on Game Development Language, especially with <b>C</b>, <b>C#</b> and <b>C++</b>. I mainly work on design of a game, write proposals about the concept, core mechanics, level design etc. I'm also working on learning <b>3D Designs</b> with <b>3Ds Max.</b><br> I still have some interest in <b>IT engineering</b>
-If you want to discuss about it, feel free to contact me.
+
+### 🌐 Know more about me on :
+<p>
+  <a href="https://www.instagram.com/jinyang._.1214/" target="_blank"><img alt="Jin Yang Instagram" src="icons/instagramicon.png" width="5%" align=middle></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/f3eB2PDUvB" target="_blank"><img alt="Jin Yang Discord" src="icons/discordicon.svg" width="5%" align=middle></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://jin-2.gitbook.io/workspace-ko/" target="_blank"><img alt="Jin Yang Gitbook" src="icons/gitbookicon.png" width="5%" align=middle></a>
 </p>
 
-## 🌐 You can find me on :
-<p align="center">
-  <a href="https://www.instagram.com/jinyang._.1214/" target="_blank"><img alt="Jin Yang Instagram" src="icons/instagramicon.png" width="7%" align=middle></a>
-  <a href="https://twitter.com/linit_io/" target="_blank"><img alt="Jin Yang Discord" src="icons/discordicon.svg" width="6.5%" align=middle></a>
+## My Favorites :
+
+<p>
+  <h3><i>Languages & Tools:</i></h3>
+  <table>
+  <tr border: none;>
+    <td align="center" width="110">
+      <a href="">
+        <img src="icons/cicon.png" width="48" alt="C" />
+      </a>
+      <br>C
+    </td>
+    <td align="center" width="110">
+      <a href="">
+        <img src="icons/csharpicon.png" width="48" alt="CSharp" />
+      </a>
+      <br>C#
+    </td>
+    <td align="center" width="110">
+      <a href="">
+        <img src="icons/unityicon.svg" width="48" alt="Unity" />
+      </a>
+      <br>Unity
+    </td>
+    <td align="center" width="110">
+      <a href="">
+        <img src="icons/microsoftwordicon.png" width="48" alt="Microsoft Word" />
+      </a>
+      <br>MS Word
+    </td>
+    <td align="center" width="110">
+      <a href="">
+        <img src="icons/microsoftexcelicon.png" width="48" alt="Microsoft Excel" />
+      </a>
+      <br>MS Excel
+    </td>
+    <td align="center" width="110">
+      <a href="">
+        <img src="icons/microsoftppticon.png" width="48" alt="Microsoft Powerpoint" />
+      </a>
+      <br>MS Powerpoint
+    </td>
+  </tr>
+  </table>
 </p>
 
-## 🖥️ My Favorites :
+<p>
+  <h3><i>Learning / Studying:</i></h3>
+  <table>
+  <tr border: none;>
+    <td align="center" width="110">
+      <a href="">
+        <img src="icons/accessicon.svg" width="48" height="48" alt="Access" />
+      </a>
+      <br>Access
+    </td>
+    <td align="center" width="110">
+      <a href="">
+        <img src="icons/3dsmaxicon.webp" width="48" height="48" alt="3Ds Max" />
+      </a>
+      <br>3Ds Max
+    </td>
+    <td align="center" width="110">
+      <a href="">
+        <img src="icons/gitbashicon.svg" width="48" height="48" alt="GitBash" />
+      </a>
+      <br>Git Bash
+    </td>
+  </tr>
+  </table>
+</p>
 
-<p align="right">
+<p>
   <h3><i>Games / Storyline:</i></h3>
   <table>
   <tr border: none;>
@@ -32,7 +97,7 @@ If you want to discuss about it, feel free to contact me.
         <img src="icons/minecrafticon.svg" width="48" height="48" alt="Minecraft" />
       </a>
       <br>Minecraft
-    </td>	  
+    </td>
     <td align="center" width="110">
       <a href="">
         <img src="icons/steamicon.svg" width="48" height="48" alt="Steam Games" />
@@ -52,163 +117,19 @@ If you want to discuss about it, feel free to contact me.
       <br>MCU
     </td>
   </tr>
-</table>
-<p>
-  <h3><i>Studying / Learning :</i></h3>
-  <table>
-  <tr border: none;>
-    <td align="center" width="110">
-      <a href="">
-        <img src="icons/accessicon.svg" width="48" height="48" alt="Access" />
-      </a>
-      <br>Access
-    </td>	  
-    <td align="center" width="110">
-      <a href="">
-        <img src="icons/mysqlicon.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="110">
-      <a href="">
-        <img src="icons/3dsmaxicon.webp" width="48" height="48" alt="3Ds Max" />
-      </a>
-      <br>3Ds Max
-    </td>
-    <td align="center" width="110">
-      <a href="">
-        <img src="icons/gitbashicon.svg" width="48" height="48" alt="GitBash" />
-      </a>
-      <br>Git Bash
-    </td>
-    <td align="center" width="110">
-      <a href="">
-        <img src="icons/unityicon.svg" width="48" height="48" alt="Unity" />
-      </a>
-      <br>Unity
-    </td>
-    <td align="center" width="110">
-      <a href="">
-        <img src="icons/unrealicon.png" width="48" height="48" alt="Unreal Engine 5" />
-      </a>
-      <br>Unreal Engine 5
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <a href="">
-        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
-      </a>
-      <br>TBU
-    </td>	  
-    <td align="center" width="110">
-      <a href="">
-        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
-      </a>
-      <br>TBU
-    </td>
-    <td align="center" width="110">
-      <a href="">
-        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
-      </a>
-      <br>TBU
-    </td>
-    <td align="center" width="110">
-      <a href="">
-        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
-      </a>
-      <br>TBU
-    </td>
-    <td align="center" width="110">
-      <a href="">
-        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
-      </a>
-      <br>TBU
-    </td>
-    <td align="center" width="110">
-      <a href="">
-        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
-      </a>
-      <br>TBU
-    </td>
-  </tr>
-</table>
+  </table>
 </p>
-<p>
-  <h3><i>Active Repositories:</i></h3>
-  <table>
-  <tr border: none;>
-   <td align="center" width="110">
-      <a href="">
-        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
-      </a>
-      <br>TBU
-    </td>
-    <td align="center" width="110">
-      <a href="">
-        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
-      </a>
-      <br>TBU
-    </td>
-    <td align="center" width="110">
-      <a href="">
-        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
-      </a>
-      <br>TBU
-    </td>
-    <td align="center" width="110">
-      <a href="">
-        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
-      </a>
-      <br>TBU
-    </td>
-    <td align="center" width="110">
-      <a href="">
-        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
-      </a>
-      <br>TBU
-    </td>
-    <td align="center" width="110">
-      <a href="">
-        <img src="icons/addicon.svg" width="48" height="48" alt="ToBeUpdated" />
-      </a>
-      <br>TBU
-    </td>
-  </tr>
-</table>
+<br/>
+
+---
+<br/>
+<p>	
+
+  ![Jin Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYGgiri&theme=midnight-purple&show_icons=true&hide_border=true) &nbsp;&nbsp;&nbsp;
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JYGgiri&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=4)
 </p>
 
-## 🚧 Projects and Dev Stuffs:
-
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-	
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JYGgiri&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYGgiri&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details>	
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JYGgiri&hide_border=true" />
-</details>
- 
-<details>	
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Windows OS</li>
-	    <li><b>Laptop: </b> Samsung Gram 16inch"</li>
-  	    <li><b>Browser: </b> Google Chrome Browser</li>
-	    <li><b>Terminal: </b> </li>
-	    <li><b>Code Editor:</b> VSCode, Notepad++</li>
-	    <li><b>To Stay Updated:</b> N/A</li>
-	</ul>	
-</details>
-
-#
+# 
 
 <div align="center">
 
@@ -217,3 +138,4 @@ If you want to discuss about it, feel free to contact me.
 </div>
 
 ------
+Last Update on: 2023-12-13
